@@ -15,23 +15,23 @@ To run this project all that is needed is NPM and these commands:
 
 ## Content
 
-â”śâ”€â”€ README.md - This file.
-â”śâ”€â”€ SEARCH_TERMS.md 
-â”śâ”€â”€ package.json
-â”śâ”€â”€ public
-â”‚Â Â  â”śâ”€â”€ favicon.ico 
-â”‚Â Â  â””â”€â”€ index.html 
-â””â”€â”€ src
-    â”śâ”€â”€ App.css 
-    â”śâ”€â”€ App.js 
-    â”śâ”€â”€ App.test.js 
-    â”śâ”€â”€ BooksAPI.js 
-    â”śâ”€â”€ icons 
-    â”‚Â Â  â”śâ”€â”€ add.svg
-    â”‚Â Â  â”śâ”€â”€ arrow-back.svg
-    â”‚Â Â  â””â”€â”€ arrow-drop-down.svg
-    â”śâ”€â”€ index.css 
-    â””â”€â”€ index.js 
+├── README.md - This file.
+├── SEARCH_TERMS.md 
+├── package.json
+├── public
+│   ├── favicon.ico 
+│   └── index.html 
+└── src
+    ├── App.css 
+    ├── App.js 
+    ├── App.test.js 
+    ├── BooksAPI.js 
+    ├── icons 
+    │   ├── add.svg
+    │   ├── arrow-back.svg
+    │   └── arrow-drop-down.svg
+    ├── index.css 
+    └── index.js 
 
 ## Backend Server
 
